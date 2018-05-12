@@ -1,0 +1,28 @@
+_repo: Two-Decades--13-A-History-of-the-First-Twenty-Years-Work-of-the-Woman-s-Christian-Temperance-__20811
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Graham, Frances W.
+    gutenberg_agent_id: '9535'
+    url: http://www.gutenberg.org/2009/agents/9535
+  - agent_name: Gardenier, Georgeanna M.
+    gutenberg_agent_id: '9536'
+    url: http://www.gutenberg.org/2009/agents/9536
+description: ''
+gutenberg_issued: '2007-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Woman''s Christian Temperance Union. State of New York'
+- !lcc 'HV'
+title: "Two Decades\r\nA History of the First Twenty Years' Work of the Woman's Christian\
+  \ Temperance Union of the State of New York"
+url: http://www.gutenberg.org/ebooks/20811
