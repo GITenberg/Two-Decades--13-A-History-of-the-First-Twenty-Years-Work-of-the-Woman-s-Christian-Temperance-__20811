@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9536'
     url: http://www.gutenberg.org/2009/agents/9536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20811#Two-Decades--13-A-History-of-the-First-Twenty-Years-Work-of-the-Woman-s-Christian-Temperance-_
 gutenberg_issued: '2007-03-13'
 gutenberg_type: Text
 identifiers:
